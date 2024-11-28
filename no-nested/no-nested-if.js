@@ -2,7 +2,7 @@ export default {
   meta: {    
     type: 'problem',
     schema: [
-      { type: 'integer', minimal: 1 }
+      { type: 'integer', minimum: 1 }
     ]
   },
   create(context) {
