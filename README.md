@@ -18,7 +18,7 @@ To test custom rules, open Visual Studio Code and make sure that you have ESLint
 
 The implementation is not production-ready! It should be used as a playground and a boilerplate for learning.
 
-AST Explorer (https://astexplorer.net/) is a great online asset that developers need for exploring Abstract Syntax Trees.
+AST Explorer (https://astexplorer.net/) is a great online asset for exploring Abstract Syntax Trees.
 
 ## Notes
 - Make sure that you restart ESLint Server, from the Visual Studio Code, after adding new custom rules or improving existing custom rules. You can restart ESLint Server with: `View` -> `Command Palette` -> `Restart ESLint Server`. While in most cases restarting ESLint Server is sufficient, sometimes Visual Studio Code needs to be restarted to get the things working.
